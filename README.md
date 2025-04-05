@@ -4,7 +4,7 @@ Repositório com minhas soluções para problemas da plataforma [beecrowd](https
 
 ## 📌 Sobre
 
-As principais linguagens utilizadas foram C, C++ e Java.
+As principais linguagens utilizadas foram C, C++, Java e Python.
 
 ### <a href="https://judge.beecrowd.com/pt/profile/1028467">🔗 Meu Perfil no Beecrowd </a>
 
