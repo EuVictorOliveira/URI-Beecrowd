@@ -6,6 +6,6 @@ Repositório com minhas soluções para problemas da plataforma [beecrowd](https
 
 As principais linguagens utilizadas foram C, C++, Java e Python.
 
-### <a href="https://judge.beecrowd.com/pt/profile/1028467"> Meu Perfil no Beecrowd </a>
+### <a href="https://judge.beecrowd.com/pt/profile/1028467"> 
 
 
